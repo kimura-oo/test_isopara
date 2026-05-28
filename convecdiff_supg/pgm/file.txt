@@ -1,0 +1,13 @@
+inp.dat
+../data/mes_80/cube_80.mes
+../data/mes_80/cube_80.uv
+../data/mes_80/cube_80.bc
+../data/mes_80/cube_80.ini
+../res/res_80/cube_80.res
+../res/vtk_80/advection_
+../res/res_80/outfile251.res
+../res/res_80/outfile252.res
+../res/res_80/outfile751.res
+../res/res_80/outfile752.res
+../res/res_80/outfile100.res
+

@@ -1,0 +1,9 @@
+4 POTENTIAL
+1  1  2  3  0.0
+2  3  4  5  0.0
+3  25  24  23  1.0
+4  23  22  21  1.0
+
+0 VELOCITY_INLET
+
+0 VELOCITY_WALL
